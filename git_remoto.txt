@@ -1,0 +1,5 @@
+comando git clone: para fazer o download de um repositório remoto
+
+comando git pull: para atualizar o repositório
+
+comando git push: para submeter alterações ao repositório
